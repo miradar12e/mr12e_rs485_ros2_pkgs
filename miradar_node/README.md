@@ -5,7 +5,7 @@ Parameters are available to set via dynamic_reconfigure.
 
 ## Acknowledgements
 The original of this ROS node was created by QuibiTech Inc.  
-The link is as follows.
+The link is as follows.  
 https://github.com/QibiTechInc/miradar_ros2_pkgs
 
 ## Launch
