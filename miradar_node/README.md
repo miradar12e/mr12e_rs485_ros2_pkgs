@@ -4,7 +4,7 @@ ROS Node for miradar12e.
 Parameters are available to set via dynamic_reconfigure.
 
 
-## Launcn
+## Launch
 ```
 ros2 launch miradar_node miradar_rviz_launch.py
 ```
