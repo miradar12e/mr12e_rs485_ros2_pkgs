@@ -9,6 +9,11 @@ Parameters are available to set via dynamic_reconfigure.
 ros2 launch miradar_node miradar_rviz_launch.py
 ```
 
+for X Window System (if your computer does not support Wayland)
+```
+QT_QPA_PLATFORM=xcb ros2 launch miradar_node miradar_rviz_launch.py
+```
+
 ## PPI Mode
 ![PPI Mode](img/ppi.png)
 
