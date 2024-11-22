@@ -1,11 +1,11 @@
 # miradar_node
 
-ROS Node for miradar12e.
+ROS Node for miradar12e.  
 Parameters are available to set via dynamic_reconfigure.
 
 ## Acknowledgements
 The original of this ROS node was created by QuibiTech Inc.  
-The link is as follows.  
+The link is as follow.  
 https://github.com/QibiTechInc/miradar_ros2_pkgs
 
 ## Launch
