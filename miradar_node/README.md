@@ -3,10 +3,19 @@
 ROS Node for miradar12e.
 Parameters are available to set via dynamic_reconfigure.
 
+## Acknowledgements
+The original of this ROS Node was created by Quibitech Inc.  
+The link is as follow.  
+https://github.com/QibiTechInc/miradar_ros2_pkgs
 
-## Launcn
+## Launch
 ```
 ros2 launch miradar_node miradar_rviz_launch.py
+```
+
+for X Window System (if your computer does not support Wayland)
+```
+QT_QPA_PLATFORM=xcb ros2 launch miradar_node miradar_rviz_launch.py
 ```
 
 ## PPI Mode
